@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Cuando tengas dominio, descomenta y ajusta la linea de abajo:
+# Sitemap: https://tudominio.cl/sitemap.xml
